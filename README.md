@@ -25,3 +25,8 @@
 + 팰린드롬 (https://www.acmicpc.net/problem/10174)
 + 회사에 있는 사람 (https://www.acmicpc.net/problem/7785)
 + 수 찾기 (https://www.acmicpc.net/problem/1920)
+
+#### 6일차 (2020.11.16)
++ 2007년 (https://www.acmicpc.net/problem/1924)
++ 영화감독 숌 (https://www.acmicpc.net/problem/1436)
++ 배열 합치기 (https://www.acmicpc.net/problem/11728)
