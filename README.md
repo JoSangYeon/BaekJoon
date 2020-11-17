@@ -30,3 +30,8 @@
 + 2007년 (https://www.acmicpc.net/problem/1924)
 + 영화감독 숌 (https://www.acmicpc.net/problem/1436)
 + 배열 합치기 (https://www.acmicpc.net/problem/11728)
+
+#### 7일차 (2020.11.17)
++ N번째 큰 수 (https://www.acmicpc.net/problem/2693)
++ 정수 제곱근 (https://www.acmicpc.net/problem/2417)
++ 3의 배수 (https://www.acmicpc.net/problem/1769)
