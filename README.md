@@ -35,3 +35,8 @@
 + N번째 큰 수 (https://www.acmicpc.net/problem/2693)
 + 정수 제곱근 (https://www.acmicpc.net/problem/2417)
 + 3의 배수 (https://www.acmicpc.net/problem/1769)
+
+#### 8일차 (2020.11.18)
++ TV 크기 (https://www.acmicpc.net/problem/1297)
++ 인공지능 시계 (https://www.acmicpc.net/problem/2530)
++ 가장 긴 증가하는 부분 수열 (https://www.acmicpc.net/problem/11053)
