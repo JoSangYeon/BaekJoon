@@ -40,3 +40,8 @@
 + TV 크기 (https://www.acmicpc.net/problem/1297)
 + 인공지능 시계 (https://www.acmicpc.net/problem/2530)
 + 가장 긴 증가하는 부분 수열 (https://www.acmicpc.net/problem/11053)
+
+#### 9일차 (2020.11.19)
++ 백준 알고리즘 2914번: 저작권 (https://www.acmicpc.net/problem/2914)
++ 백준 알고리즘 2004번: 조합 0의 개수 (https://www.acmicpc.net/problem/2004)
++ 백준 알고리즘 1912번: 연속합 (https://www.acmicpc.net/problem/1912)
