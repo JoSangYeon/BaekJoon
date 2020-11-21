@@ -45,3 +45,8 @@
 + 백준 알고리즘 2914번: 저작권 (https://www.acmicpc.net/problem/2914)
 + 백준 알고리즘 2004번: 조합 0의 개수 (https://www.acmicpc.net/problem/2004)
 + 백준 알고리즘 1912번: 연속합 (https://www.acmicpc.net/problem/1912)
+
+#### 10일차 (2020.11.21)
++ 백준 알고리즘 2444번: 별찍기-7 (https://www.acmicpc.net/problem/2444)
++ 백준 알고리즘 2446번: 별찍기-9 (https://www.acmicpc.net/problem/2446)
++ 백준 알고리즘 2446번: 별찍기-10 (https://www.acmicpc.net/problem/2447)
