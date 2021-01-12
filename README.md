@@ -55,3 +55,6 @@
 + 백준 알고리즘 2739번: 구구단 (https://www.acmicpc.net/problem/2739)
 + 백준 알고리즘 10871번: X보다 작은 수 (https://www.acmicpc.net/problem/10871)
 + 백준 알고리즘 10871번: 사분면 고르기 (https://www.acmicpc.net/problem/14681)
+
+### 2021.01.12
++ 백준 알고리즘 10870번: 피보나치 수 5(https://www.acmicpc.net/problem/10870)
