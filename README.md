@@ -58,3 +58,8 @@
 
 ### 2021.01.12
 + 백준 알고리즘 10870번: 피보나치 수 5(https://www.acmicpc.net/problem/10870)
+
+### 2021.01.15
++백준 알고리즘 14584번: 암호 해독 (https://www.acmicpc.net/problem/14584)
++백준 알고리즘 1920번: 수 찾기 (https://www.acmicpc.net/problem/1920)
++백준 알고리즘 1914번: 하노이 탑 (https://www.acmicpc.net/problem/1914)
